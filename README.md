@@ -1,4 +1,4 @@
-![splash-min](https://user-images.githubusercontent.com/61861940/147894582-30f0b076-6647-46b2-b731-1a9535b19aa9.jpg)
+![image](https://user-images.githubusercontent.com/61861940/173849992-5d5f495f-21ba-420c-900b-4bc3d8c198f1.png)
 <p align="center">Start building your own custom Mona Space using our official template</p>
 
 ## ⬇️ Unity Version
