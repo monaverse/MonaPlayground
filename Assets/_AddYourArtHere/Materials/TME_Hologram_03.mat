@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TME_Hologram_03
+  m_Shader: {fileID: 4800000, guid: aa7278d3029161f46ad252bfa6bea7e7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BackFaceDiffuse:
+        m_Texture: {fileID: 2800000, guid: e3279062c35a26d41b6132a5ab56afdd, type: 3}
+        m_Scale: {x: 10, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _BackFaceMetallicSmoothness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BackFaceNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrontFaceDiffuse:
+        m_Texture: {fileID: 2800000, guid: e3279062c35a26d41b6132a5ab56afdd, type: 3}
+        m_Scale: {x: 10, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _FrontFaceMetallicSmoothness:
+        m_Texture: {fileID: 2800000, guid: e3279062c35a26d41b6132a5ab56afdd, type: 3}
+        m_Scale: {x: 10, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _FrontFaceNormal:
+        m_Texture: {fileID: 2800000, guid: 52a06b9715cb9784cabb853d2416867e, type: 3}
+        m_Scale: {x: 10, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _LED_Example_d:
+        m_Texture: {fileID: 2800000, guid: 8ac73c78269997c49a6bc217c9954bd3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Speakers_low_DefaultMaterial_AlbedoTransparency:
+        m_Texture: {fileID: 2800000, guid: e6a3c71c5bc0607408c44d917163016a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Speakers_low_DefaultMaterial_Emissive:
+        m_Texture: {fileID: 2800000, guid: a482c17c1b07f4f4fb90eac51cb6195b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Speakers_low_DefaultMaterial_MetallicSmoothness:
+        m_Texture: {fileID: 2800000, guid: 360b188957a9eab438a1b10ea0e2d11c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Speakers_low_DefaultMaterial_Normal:
+        m_Texture: {fileID: 2800000, guid: 873036f49fbed0946b6daf399bd2e64a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BackFaceMetallic: 0
+    - _BackFaceSmoothness: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FrontFaceMetallic: 0
+    - _FrontFaceSmoothness: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Intensity: 1
+    - _Magnitude: -0.1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.715
+    - _Parallax: 0.02
+    - _RimPower: 8
+    - _RimScale: 2
+    - _ScanLines: 1.3
+    - _ScanOpacity: 1
+    - _Size: 0.1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 55.6
+    - _SrcBlend: 1
+    - _Tiles: 4
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _BackFaceColor: {r: 0.9019475, g: 0, b: 1, a: 1}
+    - _Color: {r: 0, g: 0.3864398, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FrontFaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Location: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Speed: {r: -0.2, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
