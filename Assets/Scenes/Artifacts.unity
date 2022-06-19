@@ -593,7 +593,7 @@ GameObject:
   m_Component:
   - component: {fileID: 347196292}
   m_Layer: 0
-  m_Name: Artifact_Website1
+  m_Name: Artifact_Website2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -924,7 +924,7 @@ GameObject:
   - component: {fileID: 602712513}
   - component: {fileID: 602712514}
   m_Layer: 0
-  m_Name: Link To Site 2
+  m_Name: Website3
   m_TagString: Artifact
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2081,7 +2081,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1305670778}
   m_Layer: 0
-  m_Name: Artifact_Website2
+  m_Name: Artifact_Website3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3137,7 +3137,7 @@ GameObject:
   - component: {fileID: 1912929862}
   - component: {fileID: 1912929863}
   m_Layer: 0
-  m_Name: Link To Site 1
+  m_Name: Website2
   m_TagString: Artifact
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3716,7 +3716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 334493142117672549}
   m_Layer: 0
-  m_Name: Artifact_SpatialLink
+  m_Name: Artifact_Website1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3750,7 +3750,7 @@ GameObject:
   - component: {fileID: 334493143770793835}
   - component: {fileID: 8277630610762441948}
   m_Layer: 0
-  m_Name: Link To Spatial
+  m_Name: Website1
   m_TagString: Artifact
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
